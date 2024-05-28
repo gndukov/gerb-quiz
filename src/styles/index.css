@@ -1,0 +1,93 @@
+body {
+    background-image: url('../assets/images/eu1.jpg');
+    background-size: cover; /* Ensure the image covers the entire viewport */
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-color: #0d4da4;
+    height: 100vh;
+    width: 100vw;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.quizCard {
+    width: 42rem;
+    height: 28rem;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    backdrop-filter: blur(14px);
+}
+
+.quizBody {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.quizText {
+    font-size: 1.2rem;
+    color: white;
+}
+
+.dialog {
+    background-color: rgba(255, 255, 255, 0.2);
+    backdrop-filter: blur(14px);
+}
+
+/* Responsive design for tablets */
+@media (max-width: 1024px) {
+    .quizCard {
+        width: 36rem;
+        height: 24rem;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .quizText {
+        font-size: 1rem;
+    }
+
+    .quizBody {
+        margin-left: 3%;
+    }
+}
+
+/* Responsive design for mobile phones */
+@media (max-width: 768px) {
+    .quizCard {
+        width: 30rem;
+        height: 20rem;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .quizText {
+        font-size: 0.9rem;
+    }
+
+    .quizBody {
+        margin-left: 2%;
+    }
+}
+
+/* Further adjustments for very small mobile screens */
+@media (max-width: 480px) {
+    .quizCard {
+        width: 90%;
+        height: auto;
+        padding: 1rem;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+
+    .quizText {
+        font-size: 0.8rem;
+    }
+
+    .quizBody {
+        margin-left: 1%;
+    }
+}
