@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/gndukov/gerb-quiz.git/static/css/main.073170bd.css",
+    "main.js": "/gndukov/gerb-quiz.git/static/js/main.26479be0.js",
+    "static/js/453.cc650920.chunk.js": "/gndukov/gerb-quiz.git/static/js/453.cc650920.chunk.js",
+    "static/media/eu1.jpg": "/gndukov/gerb-quiz.git/static/media/eu1.645003dea3d026ddf781.jpg",
+    "index.html": "/gndukov/gerb-quiz.git/index.html",
+    "main.073170bd.css.map": "/gndukov/gerb-quiz.git/static/css/main.073170bd.css.map",
+    "main.26479be0.js.map": "/gndukov/gerb-quiz.git/static/js/main.26479be0.js.map",
+    "453.cc650920.chunk.js.map": "/gndukov/gerb-quiz.git/static/js/453.cc650920.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073170bd.css",
+    "static/js/main.26479be0.js"
+  ]
+}
