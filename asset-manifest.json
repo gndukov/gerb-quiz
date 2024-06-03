@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/gndukov/gerb-quiz.git/static/css/main.073170bd.css",
-    "main.js": "/gndukov/gerb-quiz.git/static/js/main.26479be0.js",
-    "static/js/453.cc650920.chunk.js": "/gndukov/gerb-quiz.git/static/js/453.cc650920.chunk.js",
-    "static/media/eu1.jpg": "/gndukov/gerb-quiz.git/static/media/eu1.645003dea3d026ddf781.jpg",
-    "index.html": "/gndukov/gerb-quiz.git/index.html",
-    "main.073170bd.css.map": "/gndukov/gerb-quiz.git/static/css/main.073170bd.css.map",
-    "main.26479be0.js.map": "/gndukov/gerb-quiz.git/static/js/main.26479be0.js.map",
-    "453.cc650920.chunk.js.map": "/gndukov/gerb-quiz.git/static/js/453.cc650920.chunk.js.map"
+    "main.css": "/gerb-quiz/static/css/main.29910bf1.css",
+    "main.js": "/gerb-quiz/static/js/main.78d88915.js",
+    "static/js/453.cc650920.chunk.js": "/gerb-quiz/static/js/453.cc650920.chunk.js",
+    "static/media/eu1.jpg": "/gerb-quiz/static/media/eu1.645003dea3d026ddf781.jpg",
+    "index.html": "/gerb-quiz/index.html",
+    "main.29910bf1.css.map": "/gerb-quiz/static/css/main.29910bf1.css.map",
+    "main.78d88915.js.map": "/gerb-quiz/static/js/main.78d88915.js.map",
+    "453.cc650920.chunk.js.map": "/gerb-quiz/static/js/453.cc650920.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073170bd.css",
-    "static/js/main.26479be0.js"
+    "static/css/main.29910bf1.css",
+    "static/js/main.78d88915.js"
   ]
 }
